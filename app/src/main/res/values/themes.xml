@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Laboratorio1" parent="Theme.Material3.DayNight">
+        <!-- Tus personalizaciones -->
+    </style>
+
+    <style name="Theme.Laboratorio1" parent="Base.Theme.Laboratorio1" />
+</resources>
